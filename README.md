@@ -1,29 +1,24 @@
-# README #
+# How to install a pptp service on your Ubuntu PC. #
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## How to use ##
 
-### What is this repository for? ###
+```
+#!shell
 
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
+wget -c sourceFle
+```
 
-### How do I get set up? ###
 
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
+```
+#!shell
 
-### Contribution guidelines ###
+chmod 777 pptp.sh
+```
 
-* Writing tests
-* Code review
-* Other guidelines
 
-### Who do I talk to? ###
+```
+#!shell
 
-* Repo owner or admin
-* Other community or team contact
+./pptp.sh
+```
+
