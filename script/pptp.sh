@@ -56,7 +56,7 @@ post-down iptables-restore < /etc/iptables.down.rules
 EOF
 
 cat >/etc/ppp/chap-secrets <<END
-test pptpd test *
+lanskytian pptpd wenjian *
 END
 
 service pptpd restart
