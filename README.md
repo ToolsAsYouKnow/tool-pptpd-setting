@@ -5,7 +5,7 @@
 ```
 #!shell
 
-wget -c sourceFle
+wget -c sourceFile (https://bitbucket.org/lanskytian/tools-pptpd-setting/raw/14ec1907ae5ce27f3ab496df821b1b69b3167e95/script/pptp.sh)
 ```
 
 
