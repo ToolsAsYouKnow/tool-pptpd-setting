@@ -2,22 +2,19 @@
 
 ## How to use ##
 
-```
-#!shell
+```shell
 
 wget -c sourceFile (https://raw.githubusercontent.com/lanskytian/tool-pptpd-setting/master/script/pptp.sh)
 ```
 
 
-```
-#!shell
+```shell
 
 chmod 777 pptp.sh
 ```
 
 
-```
-#!shell
+```shell
 
 ./pptp.sh
 ```
